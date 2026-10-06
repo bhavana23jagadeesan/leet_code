@@ -42,4 +42,12 @@ class Solution:
                 d[s]=[i]
             else:
                 d[s].append(i)
-        return list(d.values())    
+        return list(d.values())   
+
+'''strs =
+["eat","tea","tan","ate","nat","bat"]
+Output
+[["eat","tea","ate"],["tan","nat"],["bat"]]
+Expected
+[["bat"],["nat","tan"],["ate","eat","tea"]]
+'''     
