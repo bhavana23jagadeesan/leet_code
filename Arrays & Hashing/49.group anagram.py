@@ -1,4 +1,4 @@
-Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+'''Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 
  
 
@@ -31,4 +31,15 @@ Constraints:
 
 1 <= strs.length <= 104
 0 <= strs[i].length <= 100
-strs[i] consists of lowercase English letters.
+strs[i] consists of lowercase English letters.'''
+
+class Solution:
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        d={}
+        for i in strs:
+            s="".join(sorted(i))
+            if s not in d:
+                d[s]=[i]
+            else:
+                d[s].append(i)
+        return list(d.values())    
