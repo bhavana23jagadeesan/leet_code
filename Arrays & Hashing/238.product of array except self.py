@@ -46,6 +46,13 @@ class Solution {
     }
 }
 
+'''
+test case 1
+nums =
+[1,2,3,4]
+
+'''
+
 '''Accepted
 Runtime: 0 ms
 Case 1
