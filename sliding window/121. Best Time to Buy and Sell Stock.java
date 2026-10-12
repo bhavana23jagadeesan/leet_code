@@ -54,3 +54,12 @@ Output
 Expected
 5
 '''
+
+'''Input
+prices =
+[7,6,4,3,1]
+Output
+0
+Expected
+0
+'''
