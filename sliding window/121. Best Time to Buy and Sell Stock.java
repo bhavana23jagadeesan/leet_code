@@ -25,3 +25,21 @@ Constraints:
 0 <= prices[i] <= 104
 '''
 
+class Solution {
+    public int maxProfit(int[] prices) {
+        int minprice=Integer.MAX_VALUE;
+        int maxProfit=0;
+        for(int i=0;i<prices.length;i++){
+            if(prices[i]<minprice){
+                minprice=prices[i];
+            }
+            else{
+                int profit=prices[i]-minprice;
+                if(profit>maxProfit){
+                    maxProfit=profit;
+                }
+            }
+        }
+        return maxProfit;
+    }
+}
