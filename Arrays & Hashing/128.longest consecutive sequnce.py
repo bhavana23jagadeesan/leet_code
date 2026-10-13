@@ -37,3 +37,12 @@ class Solution:
                     length += 1
                 longest = max(length, longest)
         return longest
+
+'''Input
+nums =
+[100,4,200,1,3,2]
+Output
+4
+Expected
+4
+'''
