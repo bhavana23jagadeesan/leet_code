@@ -60,6 +60,6 @@ prices =
 [7,6,4,3,1]
 Output
 0
-Expected
+expected
 0
 '''
