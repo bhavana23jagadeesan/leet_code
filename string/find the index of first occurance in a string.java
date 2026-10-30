@@ -41,3 +41,17 @@ class Solution {
         return -1;
     }
 }
+
+
+'''Accepted
+Runtime: 0 ms
+Case 1
+Input
+haystack =
+"sadbutsad"
+needle =
+"sad"
+Output
+0
+Expected
+0'''
