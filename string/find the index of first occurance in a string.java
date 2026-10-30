@@ -55,3 +55,17 @@ Output
 0
 Expected
 0'''
+
+'''Accepted
+Runtime: 0 ms
+Case 2
+Input
+haystack =
+"leetcode"
+needle =
+"leeto"
+Output
+-1
+Expected
+-1
+'''
