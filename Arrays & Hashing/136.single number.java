@@ -40,3 +40,16 @@ class Solution {
         return xor;
     }
 }
+
+
+'''Accepted
+Runtime: 0 ms
+Case 1
+Input
+nums =
+[2,2,1]
+Output
+1
+Expected
+1
+'''
