@@ -64,3 +64,15 @@ Output
 4
 Expected
 4'''
+
+'''Accepted
+Runtime: 0 ms
+Case 3
+Input
+nums =
+[1]
+Output
+1
+Expected
+1
+'''
