@@ -31,3 +31,12 @@ Constraints:
 Each element in the array appears twice except for one element which appears only once.
 '''
 
+class Solution {
+    public int singleNumber(int[] nums) {
+        int xor=0;
+        for(int x:nums){
+            xor^=x; // xor=xor^x
+        }
+        return xor;
+    }
+}
