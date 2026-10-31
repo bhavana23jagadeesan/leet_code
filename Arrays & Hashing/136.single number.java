@@ -53,3 +53,14 @@ Output
 Expected
 1
 '''
+
+'''Accepted
+Runtime: 0 ms
+Case 2
+Input
+nums =
+[4,1,2,1,2]
+Output
+4
+Expected
+4'''
