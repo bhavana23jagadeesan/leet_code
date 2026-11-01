@@ -84,3 +84,16 @@ true
 Expected
 true
 '''
+
+
+'''Accepted
+Runtime: 0 ms
+Case 4
+Input
+arr =
+[1,2,1,4,0]
+Output
+false
+Expected
+false
+'''
