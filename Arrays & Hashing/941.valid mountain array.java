@@ -71,3 +71,16 @@ Output
 false
 Expected
 false'''
+
+
+'''Accepted
+Runtime: 0 ms
+Case 3
+Input
+arr =
+[0,3,2,1]
+Output
+true
+Expected
+true
+'''
