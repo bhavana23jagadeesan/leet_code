@@ -60,3 +60,14 @@ false
 Expected
 false
 '''
+
+'''Accepted
+Runtime: 0 ms
+Case 2
+Input
+arr =
+[3,5,5]
+Output
+false
+Expected
+false'''
