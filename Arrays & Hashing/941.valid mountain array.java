@@ -47,3 +47,16 @@ class Solution {
         return(i==arr.length-1);
     }
 }
+
+
+'''Accepted
+Runtime: 0 ms
+Case 1
+Input
+arr =
+[2,1]
+Output
+false
+Expected
+false
+'''
