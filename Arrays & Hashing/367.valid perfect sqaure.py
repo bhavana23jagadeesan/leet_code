@@ -44,4 +44,14 @@ class Solution:
                 return True
         return False
 
-        
+
+'''Accepted
+Runtime: 0 ms
+Case 1
+Input
+num =
+16
+Output
+true
+Expected
+true'''
