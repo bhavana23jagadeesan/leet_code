@@ -45,3 +45,14 @@ true
 Expected
 true
 '''
+
+'''Accepted
+Runtime: 0 ms
+Case 2
+Input
+points =
+[[1,1],[2,2],[3,3]]
+Output
+false
+Expected
+false'''
