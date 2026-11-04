@@ -55,3 +55,14 @@ Output
 true
 Expected
 true'''
+
+'''Accepted
+Runtime: 0 ms
+Case 2
+Input
+num =
+14
+Output
+false
+Expected
+false'''
