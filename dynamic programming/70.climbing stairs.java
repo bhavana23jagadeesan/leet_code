@@ -41,3 +41,17 @@ class Solution {
         return l;
     }
 }
+
+
+
+'''Accepted
+Runtime: 0 ms
+Case 1
+Input
+n =
+2
+Output
+2
+Expected
+2
+'''
