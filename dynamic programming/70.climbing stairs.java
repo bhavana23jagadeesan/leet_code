@@ -55,3 +55,14 @@ Output
 Expected
 2
 '''
+
+'''Accepted
+Runtime: 0 ms
+Case 2
+Input
+n =
+3
+Output
+3
+Expected
+3'''
